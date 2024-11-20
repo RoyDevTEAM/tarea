@@ -21,7 +21,7 @@ Aquí tienes el contenido completo en un solo bloque de código Markdown para tu
 - 🧑‍💻 José Alejandro Céspedes Condori  
 
 **Docente:** Ing. Jaime Zambrana Chacón  
-**📅 Fecha:** _(Completa la fecha exacta)_  
+**📅 Fecha:** 19-11-2024  
 
 ---
 
@@ -53,34 +53,26 @@ La iniciativa fomenta la creatividad y habilidades técnicas del equipo, mostran
 - 👨‍💻 **Yorbin Afriel Mier Cabrera**  
 - 🧑‍💻 **José Alejandro Céspedes Condori**  
 
----
 
-## 🚀 **Instrucciones de Uso**
 
-1. Clonar el repositorio:  
-   ```bash
-   git clone https://github.com/tuusuario/proyecto-realidad-virtual.git
-   ```
-2. Instalar dependencias:  
-   ```bash
-   npm install
-   ```
-3. Ejecutar el proyecto:  
-   ```bash
-   npm start
-   ```
 
----
+## 🖼️ **Vista Pr![0647bc75-e9b0-4fdd-ac48-fde7ab35b298](https://github.com/user-attachments/assets/35ec8e05-7197-4a62-b6c0-60401bc18e67)
+evia**
 
-## 🖼️ **Vista Previa**
+![2031cebe-df42-4a46-820b-d418c29f804c](https://github.com/user-attachments/assets/9a6edb3b-652c-49c6-a35c-7aa77cfdeebc)
+
+![image](https://github.com/user-attachments/assets/af78fce6-6737-40a3-b13f-d1508efb62cb)
 
 ### 📸 **Capturas de Pantalla**
-_Agrega aquí imágenes destacadas de tu proyecto._
+![image](https://github.com/user-attachments/assets/af78fce6-6737-40a3-b13f-d1508efb62cb)
 
 ### 🎥 **Videos**
-_Agrega enlaces o inserta videos de demostración del funcionamiento._
 
 ---
+
+Uploading After the rain... - VR & Sound - Download Free 3D model by Aurélien Martel (@aurelien_martel) [a117738] - Google Chrome 2024-11-19 21-13-26.mp4…
+
+
 
 ## 📜 **Licencia**
 
@@ -91,7 +83,4 @@ Este proyecto está bajo la Licencia MIT. Consulte el archivo [`LICENSE`](./LICE
 > 💡 **Nota:** No olvides agregar los archivos multimedia y mantener actualizado este README con los avances de tu proyecto. ¡Hazlo profesional y llamativo! 🚀
 ```
 
-### **Instrucciones para usarlo**
-1. Copia todo este bloque y pégalo en el archivo `README.md` de tu repositorio de GitHub.
-2. Asegúrate de personalizar los enlaces y añadir tus capturas, videos y cualquier documento necesario.
 
