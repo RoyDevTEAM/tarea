@@ -52,7 +52,6 @@ La iniciativa fomenta la creatividad y habilidades técnicas del equipo, mostran
 
 ---
 
-## 🚀 **Instrucciones de Uso**
 
 
 ## 🖼️ **Vista Previa**
