@@ -56,6 +56,8 @@ La iniciativa fomenta la creatividad y habilidades técnicas del equipo, mostran
 
 
 
+
+
 ## 🖼️ **Vista Pr![0647bc75-e9b0-4fdd-ac48-fde7ab35b298](https://github.com/user-attachments/assets/35ec8e05-7197-4a62-b6c0-60401bc18e67)
 evia**
 
@@ -66,17 +68,10 @@ evia**
 ### 📸 **Capturas de Pantalla**
 ![image](https://github.com/user-attachments/assets/af78fce6-6737-40a3-b13f-d1508efb62cb)
 
-### 🎥 **Videos**
-
----
-
 Uploading After the rain... - VR & Sound - Download Free 3D model by Aurélien Martel (@aurelien_martel) [a117738] - Google Chrome 2024-11-19 21-13-26.mp4…
 
 
 
-## 📜 **Licencia**
-
-Este proyecto está bajo la Licencia MIT. Consulte el archivo [`LICENSE`](./LICENSE) para más detalles.
 
 ---
 
