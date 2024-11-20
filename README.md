@@ -18,7 +18,7 @@
 - 🧑‍💻 José Alejandro Céspedes Condori  
 
 **Docente:** Ing. Jaime Zambrana Chacón  
-**📅 Fecha:** _(Completa la fecha exacta)_  
+**📅 Fecha:** 19-11-2024
 
 ---
 
