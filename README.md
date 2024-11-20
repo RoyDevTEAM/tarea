@@ -53,3 +53,20 @@ La iniciativa fomenta la creatividad y habilidades técnicas del equipo, mostran
 ---
 
 ## 🚀 **Instrucciones de Uso**
+
+
+## 🖼️ **Vista Previa**
+
+### 🎥 **Videos**
+![0647bc75-e9b0-4fdd-ac48-fde7ab35b298](https://github.com/user-attachments/assets/35ec8e05-7197-4a62-b6c0-60401bc18e67)  
+*Demostración de la animación en acción.*
+
+![2031cebe-df42-4a46-820b-d418c29f804c](https://github.com/user-attachments/assets/9a6edb3b-652c-49c6-a35c-7aa77cfdeebc)  
+*Visualización del entorno virtual.*
+
+---
+
+### 📸 **Capturas de Pantalla**
+![image](https://github.com/user-attachments/assets/af78fce6-6737-40a3-b13f-d1508efb62cb)  
+*Interfaz principal de la extensión WebX.*
+
